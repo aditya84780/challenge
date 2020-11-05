@@ -1,0 +1,87 @@
+body{font-family: 'Barlow Semi Condensed', sans-serif;
+     background-color: hsl(210, 46%, 95%);
+    margin:0;}
+.daniel{background-color:  hsl(263, 55%, 52%);
+        width:33rem;
+        border-radius: 10px;
+        padding: 20px;
+      margin:15px;
+    display:inline-block;}
+.jonathan{background-color:hsl(217, 19%, 35%);
+        width:12.8rem;
+        border-radius:10px;
+        padding:20px;
+        margin:15px;
+          display:inline-block;}
+.jeanette{background-color:white;
+        width:12.8rem;
+        border-radius:10px;
+        padding:20px;
+        margin:15px;
+        display:inline-block;}
+.patrick{background-color:hsl(219, 29%, 14%);
+        width:33rem;
+        border-radius:10px;
+        padding:20px;
+        margin:15px;
+        display:inline-block;}
+.kira{background-color:white;
+                width: 190px;
+                height:475px;
+                border-radius:10px;
+                padding:20px;
+                margin:15px;
+                display:inline-block;
+              position:absolute;
+              right:60px;
+               top:80px;}
+.brahmand{margin: 80px 60px;
+         }
+.hwhite{color:white;
+  margin:0 auto;
+}
+.hblack{color: black;
+  margin:0 auto;}
+h6{color:white;
+opacity:50%;
+margin:10px auto;
+}
+.intro1{color: white;
+       font-size: 18px;
+        font-weight: bold;}
+.intro2{color: white;
+       font-size: 18px;
+        font-weight: bold;}
+.intro3{color: black;
+       font-size: 18px;
+        font-weight: bold;}
+.intro4{color: white;
+       font-size: 18px;
+        font-weight: bold;
+      margin-top: 25px;}
+
+.detail1{color:white;
+opacity:50%;
+font-size: 12px;
+font-weight: lighter;}
+.detail2{color:white;
+opacity:50%;
+font-size: 12px;
+font-weight: lighter;}
+.detail3{color:black;
+opacity:100%;
+font-size: 12px;
+font-weight: lighter;}
+.detail4{color:white;
+opacity:90%;
+font-size: 12px;
+font-weight: lighter;}
+
+img{float:left;
+           margin-right: 20px;
+         width:40px;}
+.attribution{
+             background-color:#d9ecf2;
+             text-align: center;
+             padding: 50px;
+        }
